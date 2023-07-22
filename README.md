@@ -18,3 +18,9 @@ you need :
 copy also the required libraries like busio ....etc 
 
 
+ you alos need an IDE  , download the thony ide from here : 
+ 
+
+    https://thonny.org/
+
+
