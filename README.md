@@ -3,9 +3,9 @@
 this is a python code to run a ping pong game on a raspberry pi pico with the circuitpython firmware installed in .....  
 
 you need : 
-   a raspberry pi pico
-   breadboard 
-   buzzer 
+   a raspberry pi pico ,
+   breadboard ,
+   buzzer ,
    arduino i2c display  , 
 
 
