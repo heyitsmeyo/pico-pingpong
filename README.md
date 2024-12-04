@@ -2,6 +2,9 @@
 
 this is a python code to run a ping pong game on a raspberry pi pico with the circuitpython firmware installed in .....  
 
+![469127781_9272809999398477_5138015422743747545_n-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a40771c6-e7b0-4dc5-95d5-c4ec5ceec3c4)
+
+
 you need : 
    a raspberry pi pico ,
    breadboard ,
