@@ -27,3 +27,17 @@ copy also the required libraries like busio ....etc
     https://thonny.org/
 
 
+# PCB Design : 
+
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/7d210a13-7208-4ca0-b301-4aab9de0c3d2" />
+
+# Schematic : 
+
+   <img width="458" alt="image" src="https://github.com/user-attachments/assets/f357af04-9f78-4140-b333-3edaa86e0856" />
+
+
+
+
+
+
+
