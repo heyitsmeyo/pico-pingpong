@@ -36,7 +36,9 @@ copy also the required libraries like busio ....etc
    <img width="458" alt="image" src="https://github.com/user-attachments/assets/f357af04-9f78-4140-b333-3edaa86e0856" />
 
 
+# if you like the project , you can donate us for more : 
 
+    https://ko-fi.com/heyitsmeyo
 
 
 
